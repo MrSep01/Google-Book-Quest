@@ -27,7 +27,7 @@ Transitioned from a RESTful API to a more modern GraphQL API, this application s
 - Search for books via the Google Books API.
 - User authentication for personalized experiences.
 - Save and manage a personal book list.
-- Deployed on Heroku with MongoDB Atlas integration.
+- Deployed on Heroku with [MongoDB Atlas integration](https://coding-boot-camp.github.io/full-stack/mongodb/deploy-with-heroku-and-mongodb-atlas).
 
 ## Development Process 💻
 
@@ -48,13 +48,13 @@ Deployment of the application on Heroku with a MongoDB database using MongoDB At
 - `client`: Contains React front-end components and pages.
 - `server`: Houses the back-end logic including Apollo Server setup and database models.
 
-## GETTING STARTED 🖥️
+## Getting Started 🖥️
 
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
 3. Install dependencies with `npm install`.
-4. Run ' npm run build' 
-5. Run 'npm run develop'
+4. Run `npm run build`.
+5. Run `npm run develop`.
 6. Access the front end on your local server to search and save books.
 
 ## Endpoints Overview 🔍
@@ -63,7 +63,7 @@ Deployment of the application on Heroku with a MongoDB database using MongoDB At
 
 ## Deployment 🚀
 
-The application is deployed on Heroku. Visit [https://damp-dusk-91471-90274f7923f4.herokuapp.com/](#) to interact with the deployed version.
+The application is deployed on Heroku. Visit the [live demo](https://damp-dusk-91471-90274f7923f4.herokuapp.com/) to interact with the deployed version.
 
 ## Contributions and Feedback 📬
 

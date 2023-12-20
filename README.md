@@ -63,7 +63,7 @@ Deployment of the application on Heroku with a MongoDB database using MongoDB At
 
 ## Deployment 🚀
 
-The application is deployed on Heroku. Visit [Live Application](#) to interact with the deployed version.
+The application is deployed on Heroku. Visit [https://damp-dusk-91471-90274f7923f4.herokuapp.com/](#) to interact with the deployed version.
 
 ## Contributions and Feedback 📬
 
